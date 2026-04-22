@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{107304ED-AC99-DDC7-85E8-1D626A6B93CB}|Assembly-CSharp.csproj|c:\\users\\chris\\documents\\school work\\spring 2025\\shader test\\assets\\shader_swirlfade.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{107304ED-AC99-DDC7-85E8-1D626A6B93CB}|Assembly-CSharp.csproj|solutionrelative:assets\\shader_swirlfade.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107304ED-AC99-DDC7-85E8-1D626A6B93CB}|Assembly-CSharp.csproj|c:\\users\\chris\\documents\\school work\\spring 2025\\shader test\\assets\\shader_gridslide.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{107304ED-AC99-DDC7-85E8-1D626A6B93CB}|Assembly-CSharp.csproj|solutionrelative:assets\\shader_gridslide.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107304ED-AC99-DDC7-85E8-1D626A6B93CB}|Assembly-CSharp.csproj|C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\assets\\shader_snowroll.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{107304ED-AC99-DDC7-85E8-1D626A6B93CB}|Assembly-CSharp.csproj|solutionrelative:assets\\shader_snowroll.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader_GridSlide.shader",
+              "DocumentMoniker": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\Assets\\Shader_GridSlide.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader_GridSlide.shader",
+              "ToolTip": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\Assets\\Shader_GridSlide.shader",
+              "RelativeToolTip": "Assets\\Shader_GridSlide.shader",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-23T06:32:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shader_SwirlFade.shader",
+              "DocumentMoniker": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\Assets\\Shader_SwirlFade.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader_SwirlFade.shader",
+              "ToolTip": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\Assets\\Shader_SwirlFade.shader",
+              "RelativeToolTip": "Assets\\Shader_SwirlFade.shader",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-23T06:03:11.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader_SnowRoll.shader",
+              "DocumentMoniker": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\Assets\\Shader_SnowRoll.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader_SnowRoll.shader",
+              "ToolTip": "C:\\Users\\Chris\\Documents\\School Work\\Spring 2025\\Shader Test\\Assets\\Shader_SnowRoll.shader",
+              "RelativeToolTip": "Assets\\Shader_SnowRoll.shader",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-23T05:33:03.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
